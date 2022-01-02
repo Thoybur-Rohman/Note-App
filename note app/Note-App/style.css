@@ -1,9 +1,10 @@
 
 #notes {
-	border: 1px solid #ccc;
+	border: 5px solid #cccccc;
 	padding: 16px;
 	max-width: 75%;
 	margin: auto;
+	border-radius: 25px;
 }
 
 .note {

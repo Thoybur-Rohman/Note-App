@@ -1,4 +1,4 @@
-# Note-App - still under work
+# Note-App
 Note Taking App
 # Normal Look 
 ![image](https://user-images.githubusercontent.com/73062879/147876816-541ceac5-92e3-4d68-bd08-cabde1cbe848.png)
